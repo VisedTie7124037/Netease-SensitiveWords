@@ -1,0 +1,24 @@
+{
+  "algorithm": "sha256",
+  "combined_sha256": "183d0a59763d4b952b1c819c11b6781cbe07885de94aa5e3b0bb1f77d5e35943",
+  "files": {
+    "G79SensitiveWords.json": {
+      "intercept_count": 163,
+      "sha256": "9c64897f0f839e64cd9130fa4e06ee3d61d1e8e66bf8de9ffeb1fa25dc44f6d3",
+      "size": 1774993,
+      "top_level_keys": [
+        "regex",
+        "settings"
+      ]
+    },
+    "X19SensitiveWords.json": {
+      "intercept_count": 132,
+      "sha256": "4ccc1c4e4c14a9457014c1ee8f300561f060a051d5a9e73c9abef1d4b87facda",
+      "size": 1729671,
+      "top_level_keys": [
+        "regex",
+        "settings"
+      ]
+    }
+  }
+}
