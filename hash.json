@@ -1,11 +1,11 @@
 {
   "algorithm": "sha256",
-  "combined_sha256": "f4088bcd51d54252327253c5a76c04bc64c8d63e2d95a70e417918fc936606c3",
+  "combined_sha256": "f83483e76470ff41aa0082e94acb559bc1ff0e874749bf4988f48c0fab182ff9",
   "files": {
     "G79SensitiveWords.json": {
       "intercept_count": 163,
-      "sha256": "b085bda765ebab0c8d8d786b917fb768a8f72a5ac71dfe6ad14b61beb74b494a",
-      "size": 1824050,
+      "sha256": "f4e2ba6699049e8290c25b96be3d5ab886e467c4f1f2b9c6d845625e5f80ea46",
+      "size": 1825046,
       "top_level_keys": [
         "regex",
         "settings"
@@ -13,8 +13,8 @@
     },
     "X19SensitiveWords.json": {
       "intercept_count": 132,
-      "sha256": "29d9b5888774d227137ee86be49e5a931f231939ada9163df218f5387facc415",
-      "size": 1778794,
+      "sha256": "debb9ba7d80b7ddf47759cc74e9171d4ad50b9f1dc3a24740af4efbcc56fa8a8",
+      "size": 1779790,
       "top_level_keys": [
         "regex",
         "settings"
